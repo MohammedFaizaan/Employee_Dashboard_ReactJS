@@ -159,7 +159,7 @@ li{
 }
 
 @media screen and (max-width: 536px) and (max-height: 3000px){
-    *{
+    p {
         font-size: 5px;
     }
     .box-container{
