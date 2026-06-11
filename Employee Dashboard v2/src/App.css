@@ -159,9 +159,6 @@ li{
 }
 
 @media screen and (max-width: 536px) {
-    p {
-        font-size: 5px;
-    }
     .box-container{
        grid-template-areas: "view"
                             "del_upd"
