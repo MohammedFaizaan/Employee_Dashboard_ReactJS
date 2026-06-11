@@ -160,7 +160,7 @@ li{
 
 @media screen and (max-width: 536px) and (max-height: 3000px){
     *{
-        font-size: 10px;
+        font-size: 5px;
     }
     .box-container{
        grid-template-areas: "view"
